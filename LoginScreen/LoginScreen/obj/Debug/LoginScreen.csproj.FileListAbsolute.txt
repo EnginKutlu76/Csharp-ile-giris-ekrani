@@ -1,0 +1,13 @@
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.AssemblyReference.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.LoginPage.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.MainPage.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.RegistrationScreen.resources
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.CoreCompileInputs.cache
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Engin\Desktop\C# DERSLERİ\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
